@@ -1,28 +1,29 @@
 # OPTIMIZING STOCK TRADING STRATEGY WITH REINFORCEMENT LEARNING  
 
-👉🏻 A personal project focused on applying Reinforcement Learning for stock market trading optimization.
+👉🏻 **A personal project focused on applying Reinforcement Learning for stock market trading optimization.**  
 
-## Project Work  
+## Project Overview  
 
-- **[Dataset]((https://github.com/premn-2025/stock-trading-strategy-using-reinforcement-learning/blob/main/all_stocks_5yr.csv))**  
+This project explores how Reinforcement Learning (RL) can be applied to develop an intelligent stock trading strategy.  
+The goal is to design an agent that learns from historical stock price data and optimizes buy/sell/hold decisions to maximize long-term returns.  
 
-- **[Blueprint]((https://github.com/premn-2025/stock-trading-strategy-using-reinforcement-learning/blob/main/BLUEPRINT.pdf))**  
+Key steps in the project include:  
 
-- **[Exploratory Data Analysis](https://www.kaggle.com/ameythakur20/exploratory-data-analysis)**  
+- **Data Collection & Preparation**: Using multi-year stock price datasets, cleaning, and feature engineering.  
+- **Exploratory Data Analysis (EDA)**: Identifying patterns, correlations, and market trends.  
+- **Modeling Approaches**:  
+  - Stock price prediction using machine learning models.  
+  - Reinforcement Learning agent trained to simulate trading decisions.  
+- **Strategy Optimization**: Balancing risk and reward, comparing RL-based strategies against baseline methods.  
+- **Visualization & Insights**: Tracking portfolio growth, rewards, and model performance over time.  
 
-- **[Stock Price Prediction Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model)**  
+## Key Features  
 
-- **[Project Report]((https://github.com/premn-2025/stock-trading-strategy-using-reinforcement-learning/blob/main/REPORT.pdf))**   
+- Implementation of Reinforcement Learning algorithms for stock trading.  
+- Stock price trend forecasting with machine learning models.  
+- Comparative evaluation of different strategies.  
+- Visual dashboards and performance plots to monitor trading outcomes.  
 
 ---
 
-## Additional References  
-
-- **Kaggle - [EDA](https://www.kaggle.com/ameythakur20/exploratory-data-analysis) | [Model](https://www.kaggle.com/ameythakur20/stock-price-prediction-model) | [Dataset](https://www.kaggle.com/ameythakur20/stock-prices)**  
-
-- **[ResearchGate](http://dx.doi.org/10.13140/RG.2.2.13054.05440)**  
-
-
 <p align="center"><b>👉🏻 A project exploring Reinforcement Learning in Stock Market Trading 👈🏻</b></p>  
-
-<p align="center"><a href='https://github.com/premn-2025/stock-trading-strategy-using-reinforcement-learning' style='color: greenyellow;'>✌🏻 Back To Repository ✌🏻</a></p>  
